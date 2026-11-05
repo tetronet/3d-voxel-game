@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaTSUK", "MetaTSUK.csproj", "{01373F63-4C6D-44C4-8F9A-E0D9E0530EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01373F63-4C6D-44C4-8F9A-E0D9E0530EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01373F63-4C6D-44C4-8F9A-E0D9E0530EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01373F63-4C6D-44C4-8F9A-E0D9E0530EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01373F63-4C6D-44C4-8F9A-E0D9E0530EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC8F216-2906-4F90-813D-D2F035859E19}
+	EndGlobalSection
+EndGlobal
